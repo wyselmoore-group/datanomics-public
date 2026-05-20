@@ -29,6 +29,7 @@ microeconomics of data sharing ecosystems.
 ## What Is Here
 
 This repository is the public authority surface for datanomics. It
+<<<<<<< Updated upstream
 contains materials from the founding research cleared for public release:
 
 - PhD abstracts from each published chapter
@@ -36,16 +37,48 @@ contains materials from the founding research cleared for public release:
 - Public glossary of datanomics terms
 - Reference list from published work
 - Background theory materials
+=======
+contains materials from the founding research cleared for public release,
+and the public reference for the Knowledge-First Operations™ framework
+derived from that research.
+
+**[`public-glossary/datanomics-glossary.md`](public-glossary/datanomics-glossary.md)**  
+The canonical academic vocabulary of datanomics. Definitions are grounded
+directly in Wysel (2023) and the peer-reviewed publications that comprise
+the thesis. This is the single authoritative reference for datanomics
+terminology — all downstream surfaces, including the KFO framework
+reference below, cross-link to it.
+
+**[`kfo-framework/kfo-framework-reference.md`](kfo-framework/kfo-framework-reference.md)**  
+The operational terms of the Knowledge-First Operations™ (KFO) framework.
+These terms operationalise the datanomics theoretical constructs within
+the KFO methodology as developed and applied by MadeWithData. Definitions
+here are derived from the PhD but developed through diagnostic practice —
+the framework reference and the academic glossary are structurally
+distinct and should be read as such.
+
+Additional materials held in this repository include PhD abstracts from
+each published chapter, selected figures from the published thesis, and
+background reference and citation files.
+>>>>>>> Stashed changes
 
 ---
 
 ## What Is Not Here
 
+<<<<<<< Updated upstream
 Commercial frameworks, client diagnostic instruments, unpublished
 theoretical extensions, and the Model:Knowledge framework are held
 privately. The research documented here is the scholarly foundation
 from which those commercial embodiments are derived — not the
 embodiments themselves.
+=======
+Commercial diagnostic instruments, client engagement materials,
+unpublished theoretical extensions, and the full Model:Knowledge
+framework are held privately within the WyselMoore Group organisation.
+The research documented here is the scholarly foundation from which those
+commercial embodiments are derived — not the embodiments themselves.
+>>>>>>> Stashed changes
 
 ---
 
@@ -54,6 +87,17 @@ embodiments themselves.
 Wysel, M. (2023). *Data Sharing Ecosystems and the Creation of Value
 from Data.* PhD thesis, University of New England.
 
+<<<<<<< Updated upstream
+=======
+Wysel, M., Baker, D., & Billingsley, W. (2021). Data sharing platforms:
+How value is created from agricultural data. *Agricultural Systems, 193*,
+103241.
+
+Wysel, M., Baker, D., & Banks, R. (2023). AgTech, agricultural data and
+market failure: Avoiding a tragedy of the (data) commons. SSRN.
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463413
+
+>>>>>>> Stashed changes
 ---
 
 ## Intellectual Property
@@ -61,7 +105,12 @@ from Data.* PhD thesis, University of New England.
 The datanomics theory, Knowledge-First Operations™ framework, and all
 associated research outputs in this repository are original scholarly
 work authored by Matthew Wysel. All intellectual property rights are
+<<<<<<< Updated upstream
 held by Matthew Wysel. Commercial development is conducted through
+=======
+held by Matthew Wysel. Knowledge-First Operations™ is a trademark of
+WyselMoore Group. Commercial development is conducted through
+>>>>>>> Stashed changes
 WyselMoore Group.
 
 ---
